@@ -4,7 +4,7 @@ This project applies various Python-based machine learning and data science libr
 
 ---
 
-## 📌 Project Workflow
+## Project Workflow
 We follow the steps below:
 1. **Problem Definition**  
 2. **Data Collection & Understanding**  
@@ -61,7 +61,7 @@ Below is the **data dictionary** for the dataset:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 # Clone this repository
 git clone https://github.com/yourusername/heart-disease-prediction.git
